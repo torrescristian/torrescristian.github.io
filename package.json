@@ -1,0 +1,26 @@
+{
+  "name": "torrescristian.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torrescristian/torrescristian.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/torrescristian/torrescristian.github.io/issues"
+  },
+  "homepage": "https://github.com/torrescristian/torrescristian.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.3"
+  }
+}
