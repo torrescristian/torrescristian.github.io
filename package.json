@@ -25,5 +25,8 @@
     "@vuepress/plugin-blog": "^1.2.4",
     "@vuepress/theme-blog": "^1.2.3",
     "vuepress": "^1.0.3"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
   }
 }

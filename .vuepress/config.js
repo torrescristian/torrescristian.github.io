@@ -7,6 +7,10 @@ const nav = [
     text: 'Proyectos',
     link: '/portfolio/',
   },
+  {
+    text: 'Sobre Mi',
+    link: '/about/',
+  },
 ];
 
 const themeConfig = {
