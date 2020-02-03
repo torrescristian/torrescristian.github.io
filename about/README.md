@@ -4,9 +4,9 @@ Me llamo __Cristian Tomas Torres__, vivo en la ciudad de Villa Dolores, Córdoba
 
 Nací el 22 de diciembre del 1995, Tengo <Age/> años.
 
-Soy __Técnico Universitario en Programación__ de la UTN FRC.
+En el 2019 me recibí de __Técnico Universitario en Programación__ de la UTN FRC.
 
-Me dedico aprender y difundir JavaScript, tanto pre ES6 como los últimos estándares, y actualmente pago las cuentas como Desarrollador __Node.js__.
+Soy Desarrollador Ssr JavaScript, tanto pre ES6 como los últimos estándares, y actualmente me desempeño como Desarrollador __Node.js__.
 
 Hice mi tesis en Vue.js, tengo experiencia laboral en Angular +2 y me gustaría comenzar a trabajar en React.js
 
@@ -44,7 +44,7 @@ __PENTAMEDIA__ <br/>
 posición: PHP Backend Developer <br/>
 periodo: 18/06/2018 – 18/09/2018 <br/>
 
-# Libros y Cursos
+# Libros y Cursos (que vale la pena nombrar)
 
 [You don't know JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS) <br/>
 
